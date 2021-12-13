@@ -1,0 +1,31 @@
+ID,Competency ID,Name,Date Created
+1,1,Data Types Compentency Measure,2021-12-11 14:06:26
+2,1,Data Types Best Practices,2021-12-11 14:06:26
+3,2,Variables Compentency Measure,2021-12-11 14:06:26
+4,2,Variables Best Practices,2021-12-11 14:06:26
+5,3,Functions Compentency Measure,2021-12-11 14:06:26
+6,3,Functions Best Practices,2021-12-11 14:06:26
+7,4,Boolean Logic Compentency Measure,2021-12-11 14:06:26
+8,4,Boolean Logic Best Practices,2021-12-11 14:06:26
+9,5,Conditionals Compentency Measure,2021-12-11 14:06:26
+10,5,Conditionals Best Practices,2021-12-11 14:06:26
+11,6,Loops Compentency Measure,2021-12-11 14:06:26
+12,6,Loops Best Practices,2021-12-11 14:06:26
+13,7,Data Structures Compentency Measure,2021-12-11 14:06:26
+14,7,Data Structures Best Practices,2021-12-11 14:06:26
+15,8,Lists Compentency Measure,2021-12-11 14:06:26
+16,8,Lists Best Practices,2021-12-11 14:06:26
+17,9,Dictionaries Compentency Measure,2021-12-11 14:06:26
+18,9,Dictionaries Best Practices,2021-12-11 14:06:26
+19,10,Working with Files Compentency Measure,2021-12-11 14:06:26
+20,10,Working with Files Best Practices,2021-12-11 14:06:26
+21,11,Exception Handling Compentency Measure,2021-12-11 14:06:26
+22,11,Exception Handling Best Practices,2021-12-11 14:06:26
+23,12,Quality Assurance (QA) Compentency Measure,2021-12-11 14:06:26
+24,12,Quality Assurance (QA) Best Practices,2021-12-11 14:06:26
+25,13,Object-Oriented Programming Compentency Measure,2021-12-11 14:06:26
+26,13,Object-Oriented Programming Best Practices,2021-12-11 14:06:26
+27,14,Recursion Compentency Measure,2021-12-11 14:06:26
+28,14,Recursion Best Practices 2.0,2021-12-11 14:06:26
+29,15,Databases Compentency Measure,2021-12-11 14:06:26
+30,15,Databases Best Practices,2021-12-11 14:06:26
